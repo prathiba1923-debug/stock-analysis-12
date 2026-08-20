@@ -37,3 +37,4 @@ result_time.columns = ['Sector','sector_open_mean','sector_close_mean','sector_h
 path=r"D:\Data/stock_data.csv"
 result_time.to_csv(path,header=True)
 print("data has been written successfully")
+# files modified by hari
